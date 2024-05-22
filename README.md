@@ -1,3 +1,2 @@
-# kmp
 
-![1711041779365](https://github.com/ayyanarnlingam/kmp/assets/64878430/e278c7a6-50c8-4c98-b47e-a749a33a3717)
+![KMP_Clean_Architechture_diagram](https://github.com/ayyanarnlingam/kmp/assets/64878430/2c0a160f-a5e1-4874-aca0-fc6fb18d4ff3)
